@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class reversestr
+public class reverse_str
 {
 public static void main(String[]args)
 {
